@@ -4,26 +4,6 @@
 
 This style guide is mostly based on the standards that are currently prevalent in JavaScript, although some conventions (i.e async/await or static class fields) may still be included or prohibited on a case-by-case basis. Currently, anything prior to stage 3 is not included nor recommended in this guide.
 
-## Table of Contents
-
-- [Airbnb React/JSX Style Guide](#airbnb-reactjsx-style-guide)
-  - [Table of Contents](#table-of-contents)
-  - [Basic Rules](#basic-rules)
-  - [Class vs `React.createClass` vs stateless](#class-vs-reactcreateclass-vs-stateless)
-  - [Mixins](#mixins)
-  - [Naming](#naming)
-  - [Declaration](#declaration)
-  - [Alignment](#alignment)
-  - [Quotes](#quotes)
-  - [Spacing](#spacing)
-  - [Props](#props)
-  - [Refs](#refs)
-  - [Parentheses](#parentheses)
-  - [Tags](#tags)
-  - [Methods](#methods)
-  - [Ordering](#ordering)
-  - [`isMounted`](#ismounted)
-
 ## Basic Rules
 
   - Only include one React component per file.
