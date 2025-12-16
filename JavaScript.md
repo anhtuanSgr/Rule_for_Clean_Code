@@ -3698,38 +3698,6 @@
   <a name="es6-styles"></a><a name="27.1"></a>
   - [28.1](#es6-styles) This is a collection of links to the various ES6+ features.
 
-- [Airbnb JavaScript Style Guide() {](#airbnb-javascript-style-guide-)
-  - [Table of Contents](#table-of-contents)
-  - [Types](#types)
-  - [References](#references)
-  - [Objects](#objects)
-  - [Arrays](#arrays)
-  - [Destructuring](#destructuring)
-  - [Strings](#strings)
-  - [Functions](#functions)
-  - [Arrow Functions](#arrow-functions)
-  - [Classes \& Constructors](#classes--constructors)
-  - [Modules](#modules)
-  - [Iterators and Generators](#iterators-and-generators)
-  - [Properties](#properties)
-  - [Variables](#variables)
-  - [Hoisting](#hoisting)
-  - [Comparison Operators \& Equality](#comparison-operators--equality)
-  - [Blocks](#blocks)
-  - [Control Statements](#control-statements)
-  - [Comments](#comments)
-  - [Whitespace](#whitespace)
-  - [Commas](#commas)
-  - [Semicolons](#semicolons)
-  - [Type Casting \& Coercion](#type-casting--coercion)
-  - [Naming Conventions](#naming-conventions)
-  - [Accessors](#accessors)
-  - [Events](#events)
-  - [jQuery](#jquery)
-  - [ECMAScript 5 Compatibility](#ecmascript-5-compatibility)
-  - [ECMAScript 6+ (ES 2015+) Styles](#ecmascript-6-es-2015-styles)
-  - [Standard Library](#standard-library)
-
   <a name="tc39-proposals"></a>
   - [28.2](#tc39-proposals) Do not use [TC39 proposals](https://github.com/tc39/proposals) that have not reached stage 3.
 
